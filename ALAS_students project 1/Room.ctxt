@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Room
+comment1.params=id\ name\ dangerLevel\ minHours\ capacity
+comment1.target=Room(int,\ java.lang.String,\ int,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getRoomName()
+comment4.params=
+comment4.target=int\ getMinHours()
+comment5.params=permit
+comment5.target=boolean\ canEnter(Permit)
+comment6.params=permit
+comment6.target=void\ enter(Permit)
+comment7.params=permit
+comment7.target=void\ exit(Permit)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

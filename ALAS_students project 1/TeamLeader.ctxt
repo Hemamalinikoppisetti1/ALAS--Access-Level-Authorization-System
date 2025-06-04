@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=TeamLeader
+comment1.params=id\ name\ maxEntries\ clearanceLevel\ budget
+comment1.target=TeamLeader(int,\ java.lang.String,\ int,\ int,\ double)
+comment2.params=
+comment2.target=double\ getBudget()
+comment3.params=budget
+comment3.target=void\ setBudget(double)
+comment4.params=
+comment4.target=int\ getTeamSize()
+comment5.params=teamSize
+comment5.target=void\ setTeamSize(int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

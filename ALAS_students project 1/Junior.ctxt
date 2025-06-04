@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Junior
+comment1.params=id\ ref\ supervisor
+comment1.target=Junior(int,\ java.lang.String,\ java.lang.String)
+comment2.params=supervisor
+comment2.target=void\ setSupervisor(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

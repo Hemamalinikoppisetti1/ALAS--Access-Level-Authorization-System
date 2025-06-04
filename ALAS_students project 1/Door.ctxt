@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Door
+comment1.params=r1\ r2
+comment1.target=Door(Room,\ Room)
+comment1.text=\r\n\ Constructs\ a\ door\ connecting\ two\ rooms.\r\n\ \r\n\ @param\ r1\ The\ first\ room.\r\n\ @param\ r2\ The\ second\ room.\r\n
+comment2.params=permit
+comment2.target=boolean\ canEnter(Permit)
+comment2.text=\r\n\ Determines\ if\ a\ permit\ can\ pass\ through\ the\ door\ into\ the\ target\ room.\r\n\ \r\n\ @param\ permit\ The\ permit\ trying\ to\ use\ the\ door.\r\n\ @return\ true\ if\ the\ permit\ is\ allowed\ to\ enter\ the\ connected\ room,\ false\ otherwise.\r\n
+comment3.params=permit
+comment3.target=boolean\ useDoor(Permit)
+comment3.text=\r\n\ Attempts\ to\ use\ the\ door\ to\ move\ the\ permit\ to\ the\ connected\ room.\r\n\ \r\n\ @param\ permit\ The\ permit\ attempting\ to\ pass\ through\ the\ door.\r\n\ @return\ true\ if\ the\ move\ was\ successful,\ false\ otherwise.\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Returns\ a\ string\ representation\ of\ the\ door.\r\n\ \r\n\ @return\ A\ string\ showing\ which\ rooms\ the\ door\ connects.\r\n
+comment5.params=
+comment5.target=Room\ getRoom1()
+comment5.text=\r\n\ Returns\ the\ first\ room.\r\n
+comment6.params=
+comment6.target=Room\ getRoom2()
+comment6.text=\r\n\ Returns\ the\ second\ room.\r\n
+numComments=7
