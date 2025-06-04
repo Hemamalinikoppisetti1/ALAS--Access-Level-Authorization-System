@@ -17,6 +17,7 @@ Tested using MyTester for functionality validation.
 Fully documented using Javadoc and UML diagrams.
 
 🛠️ Technologies Used
+
 Java (OOP)
 
 BlueJ IDE
